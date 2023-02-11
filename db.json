@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Antra",
+      "email": "antra@gmail.com",
+      "password": "secret"
+    },
+    {
+      "name": "Ratnesh Dwivedi",
+      "email": "ratnesh@gmail.com",
+      "password": "123qwe",
+      "id": 3
+    }
+  ]
+}
